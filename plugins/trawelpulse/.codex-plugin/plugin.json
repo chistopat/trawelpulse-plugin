@@ -1,0 +1,15 @@
+{
+  "name": "trawelpulse",
+  "version": "0.1.0",
+  "description": "Manage travel history, country day counts, visas and citizenship goals with Trawel Pulse.",
+  "skills": "./skills/",
+  "mcpServers": "./codex.mcp.json",
+  "interface": {
+    "displayName": "Trawel Pulse",
+    "shortDescription": "Travel history, day counts and visas",
+    "developerName": "chistopat",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://trawelpulse.com"
+  }
+}

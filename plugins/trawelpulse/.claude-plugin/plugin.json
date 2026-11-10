@@ -1,0 +1,8 @@
+{
+  "name": "trawelpulse",
+  "version": "0.1.0",
+  "description": "Manage travel history, country day counts, visas and citizenship goals with Trawel Pulse.",
+  "author": { "name": "chistopat" },
+  "homepage": "https://trawelpulse.com",
+  "repository": "https://github.com/chistopat/trawelpulse-plugin"
+}

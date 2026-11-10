@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "trawelpulse": { "type": "http", "url": "https://trawelpulse.com/mcp" }
+  }
+}

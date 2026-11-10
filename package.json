@@ -1,0 +1,14 @@
+{
+  "name": "trawelpulse-plugin",
+  "version": "0.1.0",
+  "description": "Install Trawel Pulse as a native Codex or Claude Code plugin",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "bin": { "trawelpulse-plugin": "scripts/plugin.mjs" },
+  "files": ["scripts/plugin.mjs", "plugins/trawelpulse/", ".agents/plugins/marketplace.json", ".claude-plugin/marketplace.json", "README.md"],
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "repository": { "type": "git", "url": "https://github.com/chistopat/trawelpulse-plugin.git" }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "trawelpulse",
+  "owner": { "name": "chistopat" },
+  "metadata": { "description": "Travel history, day counts, visas and citizenship goals" },
+  "plugins": [{
+    "name": "trawelpulse",
+    "source": "./plugins/trawelpulse",
+    "description": "Connect your Trawel Pulse account through OAuth"
+  }]
+}
